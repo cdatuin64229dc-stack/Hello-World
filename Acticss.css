@@ -1,0 +1,31 @@
+h1.title{
+            color: rgb(70, 224, 98);
+            background-color: lightblue;
+        }
+        h1.anothertitle{
+            color: blue;
+            background-color: lightblue;
+        }
+        div {
+            width: 300px;
+            border: 1px solid rgb(203, 34, 34);
+            padding: 10px;
+            margin: 10px;
+            margin:0px 0px 10px 0px; /* top right bottom left */
+            display: inline-block;
+        }
+.container1{
+    background-color: lightblue;
+}
+.container2{
+    background-color: aquamarine;
+}
+.container3{
+    background-color:lightblue;
+}
+.container4{
+    background-color:lightblue;
+}
+.container5{
+    background-color:lightblue;
+}
